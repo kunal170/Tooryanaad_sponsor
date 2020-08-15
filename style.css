@@ -7,7 +7,7 @@ html,body{
 	color:#fff;
 	text-align: center;
 	font-size: 6rem;
-	height:900px;
+	height:1100px;
 	font-family:'Tillana', cursive;
 	background-image: url('background.jpg');
 	background-repeat:no-repeat;
@@ -15,9 +15,11 @@ html,body{
 	
 }
 .tooryanad {
-	border-radius: 112px, 112px;
-	margin-left: 1%;
+	
+	margin-left: 5%;
 	margin-top:10%;
+	width:200px;
+	height:200px;
 }
 .kavi {
 	font-size: 4rem;
@@ -29,7 +31,7 @@ html,body{
 	 border-radius: 25px;
   border: 10px solid grey;
   width:200px;
-  height:235px;
+  height:220px;
 margin-left:10%;
 }
 .main {
