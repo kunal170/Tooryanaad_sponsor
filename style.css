@@ -7,7 +7,7 @@ html,body{
 	color:#fff;
 	text-align: center;
 	font-size: 6rem;
-	height:700px;
+	height:900px;
 	font-family:'Tillana', cursive;
 	background-image: url('background.jpg');
 	background-repeat:no-repeat;
@@ -45,6 +45,9 @@ margin-left:10%;
 	text-align: center;
 	background-color: rgb(33,37,41);
 	color:#fff;
+}
+.guest {
+	text-align:center;
 }
 .image {
 	margin-left:4%;
