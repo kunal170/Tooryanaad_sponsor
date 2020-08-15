@@ -1,0 +1,94 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+.manit {
+	padding-left: 29%;
+	font-weight:300;
+
+
+}
+.toor{
+	padding-right:38%
+
+}
+.head{
+	color:#fff;
+	text-align: center;
+	font-size: 6rem;
+	
+	font-family:'Tillana', cursive;
+	background-image: url('background.jpg');
+	background-repeat:no-repeat;
+	background-size: 100%, 100%;
+	
+}
+.tooryanad {
+	border-radius: 112px, 112px;
+	margin-left: 1%;
+	margin-top:10%;
+}
+.kavi {
+	font-size: 4rem;
+	padding-top: 2px;
+	font-family:'Amita', cursive;
+	color:orange;
+}
+.samelan{
+	 border-radius: 25px;
+  border: 10px solid grey;
+}
+.main {
+	padding-top: 10px;
+	padding-bottom:10px;
+	font-family: 'Sarala', sans-serif;
+}
+.shailesh {
+	border-radius: 50%;
+	 border: 10px solid grey;
+}
+.ayojan {
+	text-align: center;
+	background-color: rgb(33,37,41);
+	color:#fff;
+}
+.image {
+	margin-left:4%;
+	 border-radius: 25px;
+  border: 10px solid grey;
+  width:250px;
+  height:200px;
+}
+.text {
+padding-bottom: 10px;
+color: #fff;
+}
+
+.sponsors{
+	background-color: rgb(33,37,41);
+	color: #fff;
+	padding-bottom:40px;
+}
+.container {
+    padding: 0.01em 16px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    }
+ .opacity, .hover-opacity:hover {
+    opacity: 0.60;
+}
+.large {
+    font-size: 18px!important;
+}
+.margin-bottom {
+    margin-bottom: 16px!important;
+    }
+ .padding {
+    padding: 8px 16px!important;
+}
