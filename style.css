@@ -7,7 +7,7 @@ html,body{
 	color:#fff;
 	text-align: center;
 	font-size: 6rem;
-	height:970px;
+	height:920px;
 	font-family:'Tillana', cursive;
 	background-image: url('background.jpg');
 	background-repeat:no-repeat;
@@ -42,6 +42,7 @@ margin-left:10%;
 .shailesh {
 	border-radius: 50%;
 	 border: 10px solid grey;
+	left-margin:10%;
 }
 .ayojan {
 	text-align: center;
@@ -50,6 +51,7 @@ margin-left:10%;
 }
 .guest {
 	text-align:center;
+	color:#000;
 }
 .image {
 	margin-left:4%;
